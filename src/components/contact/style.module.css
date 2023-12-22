@@ -1,0 +1,44 @@
+.contact__container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 6rem;
+  gap: 3.2rem;
+  background-color: #d3979b69;
+}
+.flex {
+  display: flex;
+  gap: 3.2rem;
+}
+.text {
+  font-size: 3.2rem;
+  /* margin: 0rem 2rem; */
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+.contact__image {
+  width: 100%;
+}
+.textarea {
+  border-radius: 0.4rem;
+  border: 2px solid gray;
+  padding: 1.2rem;
+}
+.btn {
+  border-radius: 0.4rem;
+  border: none;
+  padding: 1.2rem;
+  background-color: goldenrod;
+  font-size: 1.8rem;
+  color: white;
+  &:hover {
+    cursor: pointer;
+  }
+}
+input:focus{
+  outline: none;
+  box-shadow: none;
+}

@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: goldenrod;
+  padding: 1.6rem 5.6rem;
+}
+.nav__list {
+  list-style: none;
+  display: flex;
+  gap: 16px;
+  font-size: 18px;
+}
+a {
+  text-decoration: none;
+  color: initial;
+}

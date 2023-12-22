@@ -1,0 +1,13 @@
+.projects__container {
+  padding:6rem ;
+  & p {
+    margin-bottom: 2rem;
+    font-size: 3.2rem;
+  }
+}
+.projects__wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  gap: 6rem;
+}
