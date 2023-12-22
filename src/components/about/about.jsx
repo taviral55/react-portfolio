@@ -4,6 +4,7 @@ import heroImg from "../../assets/gallery-5.png";
 
 function About() {
   return (
+    <>
     <div className={styles.hero__container}>
         <img src={heroImg} alt="Hero section image"  className={styles.hero__image}/>
       <div className={styles.hero__content}>
@@ -19,6 +20,7 @@ function About() {
         </p>
       </div>
     </div>
+    </>
   );
 }
 
