@@ -10,13 +10,13 @@ const projectData = [
       "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis optio officiis assumenda. Ratione assumenda aperiam, accusantium debitis mollitia earum necessitatibus ipsam temporibus sint nemo 1.",
   },
   {
-    name: "Project 1",
+    name: "Project 2",
     img: "Project image",
     description:
       "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis optio officiis assumenda. Ratione assumenda aperiam, accusantium debitis mollitia earum necessitatibus ipsam temporibus sint nemo 2.",
   },
   {
-    name: "Project 1",
+    name: "Project 3",
     img: "Project image",
     description:
       "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis optio officiis assumenda. Ratione assumenda aperiam, accusantium debitis mollitia earum necessitatibus ipsam temporibus sint nemo 3.",
